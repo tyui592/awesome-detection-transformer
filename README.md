@@ -86,5 +86,33 @@ awesome-detection-transformer
 - Publication: ICCV (2023. 10)
 - Author: Zhuofan Zong, Guanglu Song, Yu Liu. (SenseTime Research)
 
+## LW-DETR
+- Title: LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection
+- Publication: arXiv (2024)
+
+## Relation DETR
+- Title: Relation DETR: Exploring Explicit Position Relation Prior for Object Detection
+- Publication: ECCV (2024)
+
+## Align-DETR
+- Title: Align-DETR: Enhancing End-to-end Object Detection with Aligned Loss
+- Publication: BMVC (2024)
+
+## D-FINE
+- Title: D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement
+- Publication: ICLR (2025)
+
+## DEIM
+- Title: DEIM: DETR with Improved Matching for Fast Convergence
+- Publication: CVPR (2025)
+
+## MI-DETR
+- Title: MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism
+- Publication: CVPR (2025)
+
+## Mr. DETR
+- Title: Mr. DETR: Instructive Multi-Route Training for Detection Transformers
+- Publication: CVPR (2025)
+
 ## Reference
 - https://github.com/IDEA-Research/awesome-detection-transformer
