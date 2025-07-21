@@ -4,7 +4,7 @@ awesome-detection-transformer
 ##  DETR
 - Title: End-to-End Object Detection with Transformers
 - Date: 2020.05 (arXiv - v1)
-- Publication: ECCV 2020
+- Publication: ECCV (2020. 08)
 - Author: Nicolas Carion, Francisco Massa, Gabriel Synnaeve, ... (Facebook AI)
 - Github: https://github.com/facebookresearch/detr
 
@@ -17,7 +17,7 @@ awesome-detection-transformer
 ## Deformable DETR
 - Title: Deformable DETR Deformable Transformers for End-to-End Object Detection
 - Date: 2020. 10 (arXiv - v1), 2021. 03 (v4)
-- Publication: ICLR (Oral) 2021
+- Publication: ICLR (2021. 05)
 - Author: Xizhou Zhu, Weijie Su, Lewei Lu, Bin Li, ... (SenseTime Research)
 - Github: https://github.com/fundamentalvision/Deformable-DETR
 
