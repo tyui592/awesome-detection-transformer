@@ -88,31 +88,31 @@ awesome-detection-transformer
 
 ## LW-DETR
 - Title: LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection
-- Publication: arXiv (2024)
+- Publication: arXiv (2024. 06)
 
 ## Relation DETR
 - Title: Relation DETR: Exploring Explicit Position Relation Prior for Object Detection
-- Publication: ECCV (2024)
+- Publication: ECCV (2024. 10)
 
 ## Align-DETR
 - Title: Align-DETR: Enhancing End-to-end Object Detection with Aligned Loss
-- Publication: BMVC (2024)
+- Publication: BMVC (2024. 11)
 
 ## D-FINE
 - Title: D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement
-- Publication: ICLR (2025)
+- Publication: ICLR (2025. 04)
 
 ## DEIM
 - Title: DEIM: DETR with Improved Matching for Fast Convergence
-- Publication: CVPR (2025)
+- Publication: CVPR (2025. 06)
 
 ## MI-DETR
 - Title: MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism
-- Publication: CVPR (2025)
+- Publication: CVPR (2025. 06)
 
 ## Mr. DETR
 - Title: Mr. DETR: Instructive Multi-Route Training for Detection Transformers
-- Publication: CVPR (2025)
+- Publication: CVPR (2025. 06)
 
 ## Reference
 - https://github.com/IDEA-Research/awesome-detection-transformer
