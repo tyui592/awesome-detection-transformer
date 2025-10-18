@@ -51,6 +51,7 @@ awesome-detection-transformer
 ## H-DETR
 - Title: DETRs with Hybrid Matching
 - Publication: CVPR (2023. 06)
+- Github: https://github.com/HDETR/H-Deformable-DETR
 
 ## Group DETR
 - Title: Group DETR: Fast DETR Training with Group-Wise One-to-Many
@@ -60,6 +61,7 @@ awesome-detection-transformer
 ## Co-DETR
 - Title: DETRs with Collaborative Hybrid Assignments Training
 - Publication: ICCV (2023. 10)
+- Github: https://github.com/Sense-X/Co-DETR
 
 ## LW-DETR
 - Title: LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection
@@ -68,18 +70,22 @@ awesome-detection-transformer
 ## Relation DETR
 - Title: Relation DETR: Exploring Explicit Position Relation Prior for Object Detection
 - Publication: ECCV (2024. 10)
+- Github: https://github.com/xiuqhou/Relation-DETR
 
 ## Align-DETR
 - Title: Align-DETR: Enhancing End-to-end Object Detection with Aligned Loss
 - Publication: BMVC (2024. 11)
+- Github: https://github.com/FelixCaae/AlignDETR
 
 ## D-FINE
 - Title: D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement
 - Publication: ICLR (2025. 04)
+- Github: https://github.com/Peterande/D-FINE
 
 ## DEIM
 - Title: DEIM: DETR with Improved Matching for Fast Convergence
 - Publication: CVPR (2025. 06)
+- Github: https://github.com/Intellindust-AI-Lab/DEIM
 
 ## MI-DETR
 - Title: MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism
@@ -88,6 +94,7 @@ awesome-detection-transformer
 ## Mr. DETR
 - Title: Mr. DETR: Instructive Multi-Route Training for Detection Transformers
 - Publication: CVPR (2025. 06)
+- Github: https://github.com/Visual-AI/Mr.DETR
 
 ## Reference
 - https://github.com/IDEA-Research/awesome-detection-transformer
