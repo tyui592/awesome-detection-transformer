@@ -3,7 +3,7 @@ awesome-detection-transformer
 
 ##  DETR
 - Title: End-to-End Object Detection with Transformers
-- Publication: ECCV (2020. 08)
+- Publication: ECCV (2020. 08), [Link](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)
 - Github: https://github.com/facebookresearch/detr
 
 ## TSP-DETR
@@ -12,7 +12,7 @@ awesome-detection-transformer
 
 ## Deformable DETR
 - Title: Deformable DETR Deformable Transformers for End-to-End Object Detection
-- Publication: ICLR (2021. 05)
+- Publication: ICLR (2021. 05), [Link](https://openreview.net/forum?id=gZ9hCDWe6ke)
 - Github: https://github.com/fundamentalvision/Deformable-DETR
 
 ## SMCA
@@ -25,7 +25,7 @@ awesome-detection-transformer
 
 ## Conditional DETR
 - Title: Conditional DETR for Fast Training Convergence
-- Publication: ICCV (2021. 10)
+- Publication: ICCV (2021. 10), [Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.pdf)
 - Github: https://github.com/Atten4Vis/ConditionalDETR
 
 ## Anchor DETR
@@ -35,32 +35,32 @@ awesome-detection-transformer
 
 ## DAB-DETR
 - Title: Dab-detr Dynamic anchor boxes are better queries for detr
-- Publication: ICLR (2022. 04)
+- Publication: ICLR (2022. 04), [Link](https://openreview.net/pdf?id=oMI9PjOb9Jl)
 - Github: https://github.com/IDEA-Research/DAB-DETR
 
 ## DN-DETR
 - Title: DN-DETR- Accelerate DETR Training by Introducing Query DeNoising
-- Publication: CVPR Oral (2022. 06)
+- Publication: CVPR Oral (2022. 06), [Link](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.pdf)
 - Github: https://github.com/IDEA-Research/DN-DETR
 
 ## DINO-DETR
 - Title: Dino Detr with improved denoising anchor boxes for end-to-end object detection
-- Publication: ICLR (2023. 05)
+- Publication: ICLR (2023. 05), [Link](https://openreview.net/pdf?id=3mRwyG5one)
 - Github: https://github.com/IDEA-Research/DINO
 
 ## H-DETR
 - Title: DETRs with Hybrid Matching
-- Publication: CVPR (2023. 06)
+- Publication: CVPR (2023. 06), [Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Jia_DETRs_With_Hybrid_Matching_CVPR_2023_paper.pdf)
 - Github: https://github.com/HDETR/H-Deformable-DETR
 
 ## Group DETR
 - Title: Group DETR: Fast DETR Training with Group-Wise One-to-Many
-- Publication: ICCV (2023. 10)
+- Publication: ICCV (2023. 10), [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Group_DETR_Fast_DETR_Training_with_Group-Wise_One-to-Many_Assignment_ICCV_2023_paper.pdf)
 - Github: https://github.com/Atten4Vis/GroupDETR
 
 ## Co-DETR
 - Title: DETRs with Collaborative Hybrid Assignments Training
-- Publication: ICCV (2023. 10)
+- Publication: ICCV (2023. 10), [Link](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf)
 - Github: https://github.com/Sense-X/Co-DETR
 
 ## LW-DETR
