@@ -67,6 +67,11 @@ awesome-detection-transformer
 - Title: LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection
 - Publication: arXiv (2024. 06)
 
+## RT-DETR
+- Title: DETRs Beat YOLOs on Real-time Object Detection
+- Publication: CVPR (2024. 06), [Link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)
+- Github: https://github.com/lyuwenyu/RT-DETR
+
 ## Relation DETR
 - Title: Relation DETR: Exploring Explicit Position Relation Prior for Object Detection
 - Publication: ECCV (2024. 10), [Link](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06646.pdf)
