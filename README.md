@@ -79,7 +79,7 @@ awesome-detection-transformer
 
 ## Align-DETR
 - Title: Align-DETR: Enhancing End-to-end Object Detection with Aligned Loss
-- Publication: BMVC (2024. 11)
+- Publication: BMVC (2024. 11), [Link](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_211/paper.pdf)
 - Github: https://github.com/FelixCaae/AlignDETR
 
 ## D-FINE
