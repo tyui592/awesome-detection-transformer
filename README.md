@@ -69,7 +69,7 @@ awesome-detection-transformer
 
 ## Relation DETR
 - Title: Relation DETR: Exploring Explicit Position Relation Prior for Object Detection
-- Publication: ECCV (2024. 10)
+- Publication: ECCV (2024. 10), [Link](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06646.pdf)
 - Github: https://github.com/xiuqhou/Relation-DETR
 
 ## Align-DETR
@@ -79,21 +79,21 @@ awesome-detection-transformer
 
 ## D-FINE
 - Title: D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement
-- Publication: ICLR (2025. 04)
+- Publication: ICLR (2025. 04), [Link](https://openreview.net/pdf?id=MFZjrTFE7h)
 - Github: https://github.com/Peterande/D-FINE
 
 ## DEIM
 - Title: DEIM: DETR with Improved Matching for Fast Convergence
-- Publication: CVPR (2025. 06)
+- Publication: CVPR (2025. 06), [Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_DEIM_DETR_with_Improved_Matching_for_Fast_Convergence_CVPR_2025_paper.pdf)
 - Github: https://github.com/Intellindust-AI-Lab/DEIM
 
 ## MI-DETR
 - Title: MI-DETR: An Object Detection Model with Multi-time Inquiries Mechanism
-- Publication: CVPR (2025. 06)
+- Publication: CVPR (2025. 06), [Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Nan_MI-DETR_An_Object_Detection_Model_with_Multi-time_Inquiries_Mechanism_CVPR_2025_paper.pdf)
 
 ## Mr. DETR
 - Title: Mr. DETR: Instructive Multi-Route Training for Detection Transformers
-- Publication: CVPR (2025. 06)
+- Publication: CVPR (2025. 06), [Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Mr._DETR_Instructive_Multi-Route_Training_for_Detection_Transformers_CVPR_2025_paper.pdf)
 - Github: https://github.com/Visual-AI/Mr.DETR
 
 ## Reference
